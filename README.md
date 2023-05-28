@@ -1,5 +1,5 @@
 # 📌 PyQt5...
-- <img src="https://th.bing.com/th/id/OIP.uKIRdXjMF9a9j4J09AcLuwHaHa?pid=ImgDet&rs=1" width="24px" height="24px" title="PyQt"> PyQt is a set of Python bindings for the Qt application framework. Qt is a comprehensive framework for developing cross-platform applications that can run on various operating systems, including Windows, macOS, Linux, and mobile platforms.
+- <img src="https://th.bing.com/th/id/OIP.gQ9rSFt3Vt8-IVkHiaSvPQAAAA?pid=ImgDet&rs=1" width="24px" height="24px" title="PyQt"> PyQt is a set of Python bindings for the Qt application framework. Qt is a comprehensive framework for developing cross-platform applications that can run on various operating systems, including Windows, macOS, Linux, and mobile platforms.
 
   PyQt allows developers to create graphical user interfaces (GUIs) for their Python applications using Qt's powerful set of tools and libraries. It provides access to all the features and functionality of Qt, enabling developers to build robust and feature-rich applications with ease.
 
