@@ -6,3 +6,10 @@
   PyQt consists of several modules that correspond to different aspects of Qt, such as QtCore, QtGui, QtWidgets, and others. These modules provide classes and functions that allow developers to create and manage windows, dialogs, buttons, menus, layouts, and other GUI elements. PyQt also includes support for multimedia, networking, databases, and more, making it a versatile toolkit for application development.
 
   PyQt is widely used in the Python community for developing desktop applications with sophisticated user interfaces. It combines the flexibility and ease of use of Python with the power and flexibility of the Qt framework, making it a popular choice for building cross-platform applications with rich graphical interfaces.
+- ## To run a PyQt program, you need to follow these steps:
+  Install PyQt: First, you need to install the PyQt package. You can install it using pip, the Python package manager. Open a terminal or command prompt and run the following command:
+
+  ~~~
+  pip install pyqt5
+  ~~~
+  Write your PyQt program: Create a Python script that contains your PyQt code. You can use any text editor or integrated development environment (IDE) of your choice to write the code.
